@@ -24,7 +24,7 @@
 <p> - Large centralied text at the middle saying "Draw for fun" </p>
 <p> - School logo at the top left and course, pricing, and login options at the top right </p>
 <p> - Photo, name, and acomplishments of the professional art tutor will be found at the bottom  </p>
-<p> - The page below will include the follwing: mebership demo, registration link, FAQ, social media info and copyright info </p>
+<p> - The page below will include the follwing: mebership option, registration link, FAQ, social media info and copyright info </p>
 
 
 <h3> This is what the current web page lookes like </h3>
