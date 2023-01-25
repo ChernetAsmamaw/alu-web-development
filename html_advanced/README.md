@@ -23,4 +23,4 @@
 <p> - School logo at the top left and course, pricing, and login options at the top right of the first page </p>
 <p> - photo, name, and acomplishments of the professional art tutor at the bottom of the first page </p>
 
-<image src="/mypage1.png" alt="screenshot of my web page" >
+<image src="/html_advanced/mypage1.png" alt="screenshot of my web page" >
