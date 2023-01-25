@@ -11,7 +11,7 @@
 <p> - All your files should end with a new line </p>
 <p> - A README.md file, at the root of the folder of the project is mandatory </p>
 <p> - You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc. </p>
-<p> - Your code should be W3C compliant and validate with <a href="https://intranet.aluswe.com/rltoken/Dzwkd63Mmcw7FNXDmnGTsg" target="_blank" > W3C-Validator </a> </p>
+<p> - Your code should be W3C compliant and validate with <a href="https://intranet.aluswe.com/rltoken/Dzwkd63Mmcw7FNXDmnGTsg" target="_blank"> W3C-Validator </a> </p>
 
 
 <h2> Overview of the website </h2>
@@ -23,4 +23,4 @@
 <p> - School logo at the top left and course, pricing, and login options at the top right of the first page </p>
 <p> - photo, name, and acomplishments of the professional art tutor at the bottom of the first page </p>
 
-<image src="/images/mypage1.jpg" alt="screenshot of my web page" >
+<image src="/mypage1.png" alt="screenshot of my web page" >
