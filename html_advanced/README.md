@@ -30,7 +30,7 @@
 <h3> This is what the current web page lookes like </h3>
 
 <image src="/html_advanced/images/mypage1.png" alt="screenshot of my web page" >
-<image src="/html_advanced/images/mypage2.png" alt="screenshot of my web page" >
+<image src="/html_advanced/images/mypages.png" alt="screenshot of my web page" >
 
 
 <h4> Further information about my website can be found here <a href="https://www.figma.com/community/file/1200035306919805760"target="_blank"> Che's ArtVerse </a> </h4>
