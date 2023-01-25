@@ -26,6 +26,9 @@
 <p> - Photo, name, and acomplishments of the professional art tutor will be found at the bottom  </p>
 <p> - The page below will include the follwing: mebership demo, registration link, FAQ, social media info and copyright info </p>
 
+
+<h3> This is what the current web page lookes like </h3>
+
 <image src="/html_advanced/images/mypage1.png" alt="screenshot of my web page" >
 <image src="/html_advanced/images/mypage2.png" alt="screenshot of my web page" >
 
