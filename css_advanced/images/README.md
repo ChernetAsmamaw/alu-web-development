@@ -1,1 +1,1 @@
-This dir is for images in the webpage
+This dir is only for images
