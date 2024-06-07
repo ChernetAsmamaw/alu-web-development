@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" DB """
+""" DB module """
 
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
