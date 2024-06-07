@@ -87,8 +87,7 @@ def update_password(email: str, reset_token: str, new_password: str) -> None:
         response.status_code}"
     assert response.json() == {
         "email": email, "message": "Password updated"
-        }, (f"Unexpected response body: {response.json()}"
-    )
+        }, (f"Unexpected response body: {response.json()}")
 
 
 EMAIL = "guillaume@holberton.io"
